@@ -1,0 +1,63 @@
+_repo: Meren-ja-lemmen-aallot_75661
+_version: 0.0.1
+alternative_title: Des Meeres und der Liebe Wellen. Finnish
+contributor:
+  translator:
+    agent_name: Koskenniemi, Veikko Antero
+    alias: Koskenniemi, V. A. (Veikko Antero)
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '9084'
+    url: http://www.gutenberg.org/2009/agents/9084
+    wikipedia: http://fi.wikipedia.org/wiki/V._A._Koskenniemi
+creator:
+  author:
+    agent_name: Grillparzer, Franz
+    birthdate: 1791
+    deathdate: 1872
+    gutenberg_agent_id: '2585'
+    url: http://www.gutenberg.org/2009/agents/2585
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Franz_Grillparzer
+    - https://de.wikipedia.org/wiki/Franz_Grillparzer
+description: 'Reading ease score: 62.8 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: Performing Arts/Film'
+- 'Browsing: Religion/Spirituality/Paranormal'
+gutenberg_issued: '2025-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75661'
+language: fi
+pgterms:marc905: 20230716060026grillparze
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leander (Greek mythology) -- Drama'
+- !lcsh 'Hero (Greek mythology) -- Drama'
+- !lcsh 'Tragedies (Drama)'
+- !lcc 'PT'
+- GITenberg
+summary: '"Meren ja lemmen aallot" by Franz Grillparzer is a play written in the early
+  20th century, which explores themes of love, destiny, and the duties of priesthood
+  through the lens of Greek mythology. The story centers around the character Hero,
+  a priestess of Aphrodite, as she prepares for a significant ceremony and reflects
+  on her past, relationships, and the influence of love in her life.  The opening
+  of the play establishes a lively temple setting in Sestos where Hero sets about
+  preparing for a festival honoring the goddess Aphrodite. As she engages with Ianthe
+  and the temple staff, Hero grapples with her emotions and the weight of her priestly
+  responsibilities, which starkly contrast with her yearning for personal connection.
+  The arrival of her family adds complexity to her inner conflict as Hero''s past
+  interactions and unresolved feelings surface, hinting at future challenges she may
+  face in reconciling her duties as a priestess with her human desires for love and
+  companionship, notably as she interacts with two young men, Naukleros and Leander,
+  who represent the allure of the outside world. (This is an automatically generated
+  summary.)'
+title: Meren ja lemmen aallot
+url: http://www.gutenberg.org/ebooks/75661
